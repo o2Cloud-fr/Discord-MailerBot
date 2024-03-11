@@ -48,11 +48,10 @@ Run Bot
 Please modify your SMTP server in app.js and then add your tokens in the config.json file.
 
 config.json
-
-`clientId`
-
-`token`
-
+```
+clientId
+token
+```
 app.js
 ```
 host: 'smtp.exemple.com',
