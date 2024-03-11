@@ -10,7 +10,7 @@ Discord Mailer Bot, your versatile assistant for sending emails directly from yo
 
 ## Screenshots
 Sendmail Embed
-![App Screenshot](https://i.imgur.com/g1E3KZJ.png)
+![App Screenshot](https://i.imgur.com/xERB3Ji.png)
 
 Prompt
 ![App Screenshot](https://i.imgur.com/plGXNtD.png)
