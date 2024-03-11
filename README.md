@@ -66,6 +66,8 @@ pass: 'P@ssw0rd'
 
 from: 'mailaddress@exemple.com',
 ```
+You can use our iLockMail messaging service.****
+
 ## Feedback
 
 If you have any feedback, please reach out to us at github@o2cloud.fr
