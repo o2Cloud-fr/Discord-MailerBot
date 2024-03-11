@@ -54,19 +54,19 @@ config.json
 `token`
 
 app.js
+```
+host: 'smtp.exemple.com',
 
-`host: 'smtp.exemple.com',`
+port: 465, // Or the port that your SMTP server uses.
 
-`port: 465, // Or the port that your SMTP server uses.`
+secure: true, // False if your SMTP server does not require a secure connection.
 
-`secure: true, // False if your SMTP server does not require a secure connection.`
+user: 'mailaddress@exemple.com',
 
-`user: 'mailaddress@exemple.com',`
+pass: 'P@ssw0rd'
 
-`pass: 'P@ssw0rd'`
-
-`from: 'mailaddress@exemple.com',`
-
+from: 'mailaddress@exemple.com',
+```
 ## Feedback
 
 If you have any feedback, please reach out to us at github@o2cloud.fr
