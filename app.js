@@ -60,7 +60,7 @@ client.on('interactionCreate', async interaction => {
 
         // Configurer l'e-mail à envoyer
         const mailOptions = {
-            from: 'bot.discord@ilockmail.fr',
+            from: 'mailaddress@exemple.com',
             to: to,
             subject: subject,
             //text: content + '\n\nCeci est un texte supplémentaire.'
