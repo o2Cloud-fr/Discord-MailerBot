@@ -67,9 +67,10 @@ pass: 'P@ssw0rd'
 from: 'mailaddress@exemple.com',
 ```
 **You can use our iLockMail messaging service.**
+
 https://ilockmail.fr/
-**You can create your email address in just a few minutes, complete with an SMTP server.
-**
+
+**You can create your email address in just a few minutes, complete with an SMTP server.**
 
 ## Feedback
 
