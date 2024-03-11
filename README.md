@@ -8,6 +8,14 @@ Discord Mailer Bot, your versatile assistant for sending emails directly from yo
 - [@MyAlien](https://www.github.com/MyAlien)
 - [@o2Cloud](https://www.github.com/o2Cloud-fr )
 
+## Screenshots
+Sendmail Embed
+![App Screenshot](https://i.imgur.com/g1E3KZJ.png)
+
+Prompt
+![App Screenshot](https://i.imgur.com/plGXNtD.png)
+
+
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
@@ -119,12 +127,4 @@ This project is used by the following companies:
 
 - o2Cloud
 - MyAlienTech
-
-
-## Screenshots
-Sendmail Embed
-![App Screenshot](https://i.imgur.com/g1E3KZJ.png)
-
-Prompt
-![App Screenshot](https://i.imgur.com/plGXNtD.png)
 
