@@ -120,3 +120,11 @@ This project is used by the following companies:
 - o2Cloud
 - MyAlienTech
 
+
+## Screenshots
+Sendmail Embed
+![App Screenshot](https://i.imgur.com/g1E3KZJ.png)
+
+Prompt
+![App Screenshot](https://i.imgur.com/plGXNtD.png)
+
