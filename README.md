@@ -65,6 +65,7 @@ app.js
 
 `pass: 'P@ssw0rd'`
 
+`from: 'mailaddress@exemple.com',`
 
 ## Feedback
 
