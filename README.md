@@ -65,6 +65,8 @@ user: 'mailaddress@exemple.com',
 pass: 'P@ssw0rd'
 
 from: 'mailaddress@exemple.com',
+
+const commandList = await client.guilds.cache.get('IDSERVERDISCORD').commands.set(commands);
 ```
 **You can use our iLockMail messaging service.**
 
