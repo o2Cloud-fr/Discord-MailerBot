@@ -37,7 +37,7 @@ const commands = [
 
 // Configurer les commandes slash
 client.on('ready', async () => {
-    const commandList = await client.guilds.cache.get('IDCHANNEL').commands.set(commands);
+    const commandList = await client.guilds.cache.get('IDSERVERDISCORD').commands.set(commands);
     console.log(commandList);
 });
 
